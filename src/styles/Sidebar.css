@@ -1,0 +1,18 @@
+.sidebar {
+    width: 300px;
+    background-color: #f0f0f0;
+    padding: 30px;
+    position: fixed;
+    height: 100%;
+  }
+  
+  .sidebar ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .sidebar li {
+    margin: 15px 0;
+    color: #333;
+  }
+  

@@ -1,0 +1,10 @@
+/* Footer.css */
+
+.footer {
+  background-color: #1ABC9C;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  height: 180px;
+  flex-shrink: 0; /* prevent shrinking */
+}
